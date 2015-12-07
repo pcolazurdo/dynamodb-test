@@ -1,8 +1,8 @@
 {
-  "name": "pcolaz01",
+  "name": "dynamodb-test",
   "version": "0.1.0",
-  "description": "pcolaz01",
-  "main": "Trying to use some bluemix goodies!",
+  "description": "dynamodb-test",
+  "main": "Trying to use some AWS goodies!",
   "engines": {
     "node": "0.10.29"
   },
@@ -20,22 +20,22 @@
     "express": "^4.11.0",
     "jade": "^1.1.4",
     "log4js": "^0.6.21",
-    "nano": "^6.0.2",
     "node-jsx": "^0.13.3",
     "react": "^0.13.3",
     "react-linkify": "0.0.4",
     "twitter": "^1.0.1",
     "when": "^1.8.1",
-    "xml-escape": "^1.0.0"
+    "xml-escape": "^1.0.0",
+    "aws-sdk": "^2.2.0"
   },
-  "repository": "https://github.com/pcolazurdo/cloudant-test.git",
+  "repository": "https://github.com/pcolazurdo/dyanamodb-test.git",
   "keywords": [
     "Node.js",
-    "Eclipse",
-    "Nodeclipse"
+    "AWS",
+    "dynamodb",
+    "twitter"
   ],
   "author": "",
-  "license": "BSD",
   "readmeFilename": "README.md",
   "devDependencies": {
     "grunt": "^0.4.5",
